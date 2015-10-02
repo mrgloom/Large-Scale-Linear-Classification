@@ -6,8 +6,8 @@ Liblinear
 https://www.csie.ntu.edu.tw/~cjlin/liblinear/
 Multi-core Liblinear
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/multicore-liblinear/
-liblinear-cdblock
-http://www.csie.ntu.edu.tw/~cjlin/liblinear/exps/cdblock/
+Large linear classification when data cannot fit in memory (liblinear-cdblock)
+http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/#large_linear_classification_when_data_cannot_fit_in_memory
 Incremental Learning Extension of Liblinear
 http://www.csie.ntu.edu.tw/~cjlin/papers/ws/index.html
 
