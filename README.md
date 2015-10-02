@@ -10,6 +10,8 @@ liblinear-cdblock
 http://www.csie.ntu.edu.tw/~cjlin/liblinear/exps/cdblock/
 Vowpal wabbit
 https://github.com/JohnLangford/vowpal_wabbit
+SVMSGD
+http://leon.bottou.org/projects/sgd
 ~~~
 
 
