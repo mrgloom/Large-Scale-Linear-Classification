@@ -16,6 +16,9 @@ https://github.com/JohnLangford/vowpal_wabbit
 
 SVMSGD
 http://leon.bottou.org/projects/sgd
+
+SGD and SDCA
+http://www.vlfeat.org/api/svm.html
 ~~~
 
 
