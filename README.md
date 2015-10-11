@@ -26,4 +26,10 @@ TODO:
 ~~~
 http://fastml.com/vowpal-wabbit-liblinear-sbm-and-streamsvm-compared/
 https://github.com/szilard/benchm-ml
+http://courses.cs.washington.edu/courses/cse599s/12sp/
+~~~
+
+Materials about Stream learning / Online learning / Incremental  learning
+~~~
+http://stats.stackexchange.com/questions/26041/can-svm-do-stream-learning-one-example-at-a-time
 ~~~
