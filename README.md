@@ -17,6 +17,9 @@ https://github.com/JohnLangford/vowpal_wabbit
 SVMSGD
 http://leon.bottou.org/projects/sgd
 
+SVM Heavy
+http://people.eng.unimelb.edu.au/shiltona/svm/
+
 SGD and SDCA
 http://www.vlfeat.org/api/svm.html
 
