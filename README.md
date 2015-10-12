@@ -54,3 +54,10 @@ Materials about Stream learning / Online learning / Incremental  learning
 ~~~
 http://stats.stackexchange.com/questions/26041/can-svm-do-stream-learning-one-example-at-a-time
 ~~~
+
+tools for convertion:
+~~~
+https://github.com/JohnLangford/vowpal_wabbit/wiki/Input-format#libsvm-format
+https://github.com/zygmuntz/phraug
+https://github.com/zygmuntz/phraug2
+~~~
