@@ -45,6 +45,7 @@ http://www.isn.ucsd.edu/svm/incremental/
 
 TODO:
 ~~~
+https://github.com/zygmuntz/large-scale-linear-learners
 http://fastml.com/vowpal-wabbit-liblinear-sbm-and-streamsvm-compared/
 https://github.com/szilard/benchm-ml
 http://courses.cs.washington.edu/courses/cse599s/12sp/
