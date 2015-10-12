@@ -35,6 +35,8 @@ http://webee.technion.ac.il/people/koby/code-index.html
 
 incremental/decremental SVM learning in Matlab
 https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB
+Incremental and Decremental Support Vector Machine Learning
+http://www.isn.ucsd.edu/svm/incremental/
 ~~~
 
 
