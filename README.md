@@ -30,6 +30,8 @@ Pegasos
 sofia-ml
 https://code.google.com/p/sofia-ml/
 
+passive-aggressive algorithms 
+http://webee.technion.ac.il/people/koby/code-index.html
 ~~~
 
 
