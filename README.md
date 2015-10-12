@@ -19,6 +19,13 @@ http://leon.bottou.org/projects/sgd
 
 SGD and SDCA
 http://www.vlfeat.org/api/svm.html
+
+online SVM
+https://www.quora.com/Support-Vector-Machines/What-are-some-good-tools-for-training-online-svm
+
+Pegasos
+"Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
+
 ~~~
 
 
