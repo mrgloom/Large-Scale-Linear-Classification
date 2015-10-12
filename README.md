@@ -32,6 +32,9 @@ https://code.google.com/p/sofia-ml/
 
 passive-aggressive algorithms 
 http://webee.technion.ac.il/people/koby/code-index.html
+
+incremental/decremental SVM learning in Matlab
+https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB
 ~~~
 
 
