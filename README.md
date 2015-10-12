@@ -22,6 +22,7 @@ http://www.vlfeat.org/api/svm.html
 
 online SVM
 https://www.quora.com/Support-Vector-Machines/What-are-some-good-tools-for-training-online-svm
+http://stats.stackexchange.com/questions/26041/can-svm-do-stream-learning-one-example-at-a-time
 
 Pegasos
 "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
