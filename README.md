@@ -27,6 +27,9 @@ http://stats.stackexchange.com/questions/26041/can-svm-do-stream-learning-one-ex
 Pegasos
 "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
 
+sofia-ml
+https://code.google.com/p/sofia-ml/
+
 ~~~
 
 
