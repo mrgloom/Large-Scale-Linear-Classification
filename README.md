@@ -33,6 +33,8 @@ http://www.cs.huji.ac.il/~shais/code/
 http://vision.princeton.edu/pvt/SiftFu/SiftFu/SIFTransac/vlfeat/doc/api/pegasos.html
 "Pegasos algorithm for one-class SVM"
 http://cs.kangwon.ac.kr/~leeck/software/OC_SVM/
+Python implementation
+http://atpassos.me/post/44900142506/pegasos-in-python-0
 
 sofia-ml
 https://code.google.com/p/sofia-ml/
