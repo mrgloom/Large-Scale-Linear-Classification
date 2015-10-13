@@ -31,6 +31,8 @@ Pegasos
 "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
 http://www.cs.huji.ac.il/~shais/code/
 http://vision.princeton.edu/pvt/SiftFu/SiftFu/SIFTransac/vlfeat/doc/api/pegasos.html
+"Pegasos algorithm for one-class SVM"
+http://cs.kangwon.ac.kr/~leeck/software/OC_SVM/
 
 sofia-ml
 https://code.google.com/p/sofia-ml/
