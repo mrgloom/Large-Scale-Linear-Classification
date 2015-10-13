@@ -40,6 +40,11 @@ incremental/decremental SVM learning in Matlab
 https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB
 Incremental and Decremental Support Vector Machine Learning
 http://www.isn.ucsd.edu/svm/incremental/
+
+ Using stochastic gradient descent (SGD) with explicit and implicit updates to fit large-scale statistical models.
+http://www.people.fas.harvard.edu/~ptoulis/harvard-homepage/implicit-sgd.html
+https://github.com/ptoulis/implicit-sgd
+
 ~~~
 
 
