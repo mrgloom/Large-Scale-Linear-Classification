@@ -48,6 +48,9 @@ https://github.com/ptoulis/implicit-sgd
 
 BudgetedSVM
 http://www.dabi.temple.edu/budgetedsvm/algorithms.html
+
+SGD
+http://scikit-learn.org/stable/modules/sgd.html
 ~~~
 
 
