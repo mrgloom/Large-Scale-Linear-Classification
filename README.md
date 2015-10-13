@@ -56,6 +56,7 @@ http://scikit-learn.org/stable/modules/sgd.html
 
 TODO:
 ~~~
+http://lingpipe-blog.com/2009/04/08/convergence-relative-sgd-pegasos-liblinear-svmlight-svmper/
 https://github.com/zygmuntz/large-scale-linear-learners
 http://fastml.com/vowpal-wabbit-liblinear-sbm-and-streamsvm-compared/
 https://github.com/szilard/benchm-ml
