@@ -79,3 +79,8 @@ https://github.com/JohnLangford/vowpal_wabbit/wiki/Input-format#libsvm-format
 https://github.com/zygmuntz/phraug
 https://github.com/zygmuntz/phraug2
 ~~~
+
+Other:
+~~~
+Enhancements to SGD include Pegasos, PassiveAggressive algorithms, Confidence Wighted Learning, Adagrad, AROW, and Natural Gradient Descent.
+~~~
