@@ -80,6 +80,11 @@ https://github.com/zygmuntz/phraug
 https://github.com/zygmuntz/phraug2
 ~~~
 
+related:
+~~~
+https://github.com/mrgloom/Gradient-Descent-Evaluation
+~~~
+
 Other:
 ~~~
 Enhancements to SGD include Pegasos, PassiveAggressive algorithms, Confidence Wighted Learning, Adagrad, AROW, and Natural Gradient Descent.
