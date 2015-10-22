@@ -56,6 +56,11 @@ http://www.dabi.temple.edu/budgetedsvm/algorithms.html
 
 SGD
 http://scikit-learn.org/stable/modules/sgd.html
+
+SVMlin
+http://vikas.sindhwani.org/svmlin.html
+and other SVM's
+https://github.com/shogun-toolbox/shogun
 ~~~
 
 
