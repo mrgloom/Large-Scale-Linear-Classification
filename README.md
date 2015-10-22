@@ -61,6 +61,9 @@ SVMlin
 http://vikas.sindhwani.org/svmlin.html
 and other SVM's
 https://github.com/shogun-toolbox/shogun
+
+SVMperf
+http://www.cs.cornell.edu/people/tj/svm_light/svm_perf.html
 ~~~
 
 
