@@ -74,6 +74,8 @@ http://bengio.abracadoudou.com/SVMTorch.html
 SVMLight
 http://svmlight.joachims.org/
 
+Shark machine learning library - BudgetedSGD
+http://image.diku.dk/shark/sphinx_pages/build/html/rest_sources/tutorials/algorithms/kernelBudgetedSGD.html
 ~~~
 
 
