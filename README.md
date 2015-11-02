@@ -71,7 +71,9 @@ https://github.com/mblondel/lightning
 SVMTorch
 http://bengio.abracadoudou.com/SVMTorch.html
 
+SVMLight
 http://svmlight.joachims.org/
+
 ~~~
 
 
