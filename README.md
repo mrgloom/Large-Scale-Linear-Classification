@@ -64,6 +64,9 @@ https://github.com/shogun-toolbox/shogun
 
 SVMperf
 http://www.cs.cornell.edu/people/tj/svm_light/svm_perf.html
+
+Differen solvers in python (primal coordinate descent, dual coordinate descent (SDCA, Prox-SDCA), SGD, AdaGrad, SAG,SVRG,FISTA)
+https://github.com/mblondel/lightning
 ~~~
 
 
