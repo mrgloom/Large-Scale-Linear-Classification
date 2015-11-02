@@ -36,7 +36,7 @@ http://cs.kangwon.ac.kr/~leeck/software/OC_SVM/
 Python implementation
 http://atpassos.me/post/44900142506/pegasos-in-python-0
 
-sofia-ml
+sofia-ml (Pegasos)
 https://code.google.com/p/sofia-ml/
 
 passive-aggressive algorithms 
