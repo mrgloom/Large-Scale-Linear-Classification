@@ -84,6 +84,9 @@ https://github.com/zygmuntz/large-scale-linear-learners
 http://fastml.com/vowpal-wabbit-liblinear-sbm-and-streamsvm-compared/
 https://github.com/szilard/benchm-ml
 http://courses.cs.washington.edu/courses/cse599s/12sp/
+
+SVM list
+http://www.svms.org/software.html
 ~~~
 
 Materials about Stream learning / Online learning / Incremental  learning
