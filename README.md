@@ -65,9 +65,6 @@ https://github.com/shogun-toolbox/shogun
 SVMperf
 http://www.cs.cornell.edu/people/tj/svm_light/svm_perf.html
 
-Differen solvers in python (primal coordinate descent, dual coordinate descent (SDCA, Prox-SDCA), SGD, AdaGrad, SAG,SVRG,FISTA)
-https://github.com/mblondel/lightning
-
 SVMTorch
 http://bengio.abracadoudou.com/SVMTorch.html
 
@@ -76,6 +73,13 @@ http://svmlight.joachims.org/
 
 Shark machine learning library - BudgetedSGD
 http://image.diku.dk/shark/sphinx_pages/build/html/rest_sources/tutorials/algorithms/kernelBudgetedSGD.html
+
+
+Python:
+sklearn.linear_model.SGDClassifier
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
+Differen solvers in python (primal coordinate descent, dual coordinate descent (SDCA, Prox-SDCA), SGD, AdaGrad, SAG,SVRG,FISTA)
+https://github.com/mblondel/lightning
 ~~~
 
 
@@ -91,9 +95,6 @@ SVM list
 http://www.svms.org/software.html
 http://www.support-vector-machines.org/SVM_soft.html
 
-Python:
-sklearn.linear_model.SGDClassifier
-http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
 ~~~
 
 Materials about Stream learning / Online learning / Incremental  learning
