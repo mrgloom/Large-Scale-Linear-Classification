@@ -67,6 +67,9 @@ http://www.cs.cornell.edu/people/tj/svm_light/svm_perf.html
 
 Differen solvers in python (primal coordinate descent, dual coordinate descent (SDCA, Prox-SDCA), SGD, AdaGrad, SAG,SVRG,FISTA)
 https://github.com/mblondel/lightning
+
+SVMTorch
+http://bengio.abracadoudou.com/SVMTorch.html
 ~~~
 
 
