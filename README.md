@@ -105,6 +105,9 @@ https://github.com/zygmuntz/phraug2
 related:
 ~~~
 https://github.com/mrgloom/Gradient-Descent-Evaluation
+
+Large scale learning:
+http://leon.bottou.org/research/largescale
 ~~~
 
 Other:
