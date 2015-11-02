@@ -90,6 +90,10 @@ http://courses.cs.washington.edu/courses/cse599s/12sp/
 SVM list
 http://www.svms.org/software.html
 http://www.support-vector-machines.org/SVM_soft.html
+
+Python:
+sklearn.linear_model.SGDClassifier
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
 ~~~
 
 Materials about Stream learning / Online learning / Incremental  learning
