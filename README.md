@@ -74,6 +74,8 @@ http://svmlight.joachims.org/
 Shark machine learning library - BudgetedSGD
 http://image.diku.dk/shark/sphinx_pages/build/html/rest_sources/tutorials/algorithms/kernelBudgetedSGD.html
 
+Parallel SVM
+https://github.com/djebm2/psvm
 
 Python:
 sklearn.linear_model.SGDClassifier
