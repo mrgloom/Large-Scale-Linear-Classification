@@ -99,6 +99,13 @@ http://www.support-vector-machines.org/SVM_soft.html
 
 ~~~
 
+TODO:
+~~~
+Check optimization method in linear svm
+https://github.com/cjlin1/liblinear
+Maybe rewrite it in c++/stl as exercise, make it crossplatform by using cmake build system, maybe blas should be excluded from project itself and something like openblas used.
+~~~
+
 Materials about Stream learning / Online learning / Incremental  learning
 ~~~
 http://stats.stackexchange.com/questions/26041/can-svm-do-stream-learning-one-example-at-a-time
